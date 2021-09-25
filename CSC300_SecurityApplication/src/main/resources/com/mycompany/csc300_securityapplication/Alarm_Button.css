@@ -1,0 +1,13 @@
+.button{
+   -fx-background-color: #7cfc00;
+   -fx-background-radius: 35;
+   -fx-text-fill: #000000;
+}
+
+.button:hover{
+    -fx-text-fill: orange;
+    -fx-effect: innershadow(two-pass-box,palegreen,5, 0.0, 20, 10);
+}
+
+
+
